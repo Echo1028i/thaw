@@ -1,4 +1,4 @@
-# thaw
+# 主要技术
 
 - 基础框架：springboot
 - ORM框架：mybatisplus
